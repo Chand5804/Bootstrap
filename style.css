@@ -1,0 +1,16 @@
+.c-item {
+  height: 100px;
+}
+
+.c-img {
+  height: 50%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.card{
+  max-width: 30em;
+}
+
+.card img{
+  max-width: 30em;
+}
